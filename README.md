@@ -17,5 +17,16 @@ Here are some ideas to get you started:
 import random
 import time
 
+# ⚽ Simulador de Partida — Projeto do Ensino Médio
 
-    print("🤝 Empate justo! Que partida emocionante!")
+> "Na escola e no futebol, cada jogada conta. Esse projeto é meu treino final antes de entrar em campo na vida real."
+
+## 📚 Sobre o Projeto
+
+Sou estudante do último ano do ensino médio e criei esse projeto para unir duas paixões: programação e futebol. Aqui você encontra um simulador simples de partida feito em Python, com direito a gols, suspense e torcida!
+
+## 🚀 Como rodar
+
+1. Clone o repositório:
+
+)
