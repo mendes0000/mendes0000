@@ -2,7 +2,7 @@
 import random
 import time
 
-# 👋 Olá! Eu sou [Nickolas]
+# 👋 Olá! Eu sou Nickolas
 
 🎓 Estudante do último ano do ensino médio  
 ⚽ Apaixonado por futebol (jogo, assisto e até analiso estatísticas!)  
